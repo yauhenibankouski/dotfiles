@@ -76,5 +76,7 @@
         "rubocop": true
     },
     "workbench.startupEditor": "newUntitledFile",
-    "window.zoomLevel": -3
+    "window.zoomLevel": -1,
+    "files.autoSave": "afterDelay",
+    "editor.inlineSuggest.enabled": true
 }
